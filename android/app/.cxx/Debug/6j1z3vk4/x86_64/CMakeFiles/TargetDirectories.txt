@@ -1,0 +1,2 @@
+/Users/nileshsharma/DriveNote/drive_note_app/android/app/.cxx/Debug/6j1z3vk4/x86_64/CMakeFiles/edit_cache.dir
+/Users/nileshsharma/DriveNote/drive_note_app/android/app/.cxx/Debug/6j1z3vk4/x86_64/CMakeFiles/rebuild_cache.dir
