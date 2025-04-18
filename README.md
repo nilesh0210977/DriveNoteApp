@@ -90,9 +90,9 @@ A Flutter application that allows you to create, edit, and manage notes that are
     <td><img src="https://github.com/user-attachments/assets/a40b5677-fb82-4ed6-b7d1-d36332d6435e" width="200"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/9fcfd626-679f-48c9-a472-7c8794effb30" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/41db2348-9f1a-4356-af81-0a125c1662cd" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/bfbcb895-261e-4a95-a7e9-c1faef401659" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/881cddcb-b7ab-417e-b4f6-4d4b512ea521" width="200"></td>
   </tr>
 </table>
 
@@ -107,7 +107,7 @@ A Flutter application that allows you to create, edit, and manage notes that are
   <tr>
     <td><img src="https://github.com/user-attachments/assets/f9977c7a-2e2a-441e-a25f-6ae672b6ef01" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/a84d41f0-21ef-46e3-8716-b507e15f4e27" width="200"></td>
-    <td></td>
+    <td><img src="https://github.com/user-attachments/assets/2606fa11-b24d-4a57-815b-b2b47cd18958" width="200"></td>
   </tr>
 </table>
 
